@@ -7,12 +7,12 @@ import streamlit as st
 # ======================================================================
 #  CONFIGURACIÓN — EDITA AQUÍ TUS DATOS
 # ======================================================================
-NOMBRE_CUMPLEANERO = "ESCRIBE AQUÍ EL NOMBRE"          # Ej: "Valentina"
-FECHA_EVENTO = "Sábado 15 de Agosto, 2026"             # Ej: "Sábado 15 de Agosto, 2026"
-HORA_EVENTO = "7:00 PM"                                # Ej: "7:00 PM"
-LUGAR_EVENTO = "ESCRIBE AQUÍ EL LUGAR"                 # Ej: "Salón Los Jardines"
-DIRECCION_EVENTO = "ESCRIBE AQUÍ LA DIRECCIÓN COMPLETA"
-MENSAJE_INVITACION = "¡Será una noche inolvidable y quiero celebrarla contigo!"
+#NOMBRE_CUMPLEANERO = "LOLITA"          # Ej: "Valentina"
+#FECHA_EVENTO = "Sábado 15 de Agosto, 2026"             # Ej: "Sábado 15 de Agosto, 2026"
+#HORA_EVENTO = "7:00 PM"                                # Ej: "7:00 PM"
+#LUGAR_EVENTO = "ESCRIBE AQUÍ EL LUGAR"                 # Ej: "Salón Los Jardines"
+#DIRECCION_EVENTO = "ESCRIBE AQUÍ LA DIRECCIÓN COMPLETA"
+#MENSAJE_INVITACION = "¡Será una noche inolvidable y quiero celebrarla contigo!"
 
 # Link de tu Google Maps (ya configurado con el que enviaste)
 GOOGLE_MAPS_LINK = "https://maps.app.goo.gl/wh5xMjmkSFv2aa2P6"
